@@ -1,7 +1,7 @@
 # SMART-STORAGE
 Smart Pneumatic Storage System 🏗️
 Project Overview
-An automated industrial-grade storage solution designed to optimize space and material handling. This system utilizes an Arduino Mega to control Hydraulic Cylinders based on real-time feedback from Ultrasonic Sensors, ensuring precise positioning and safety.
+An automated industrial-grade storage solution designed to optimize space and material handling. This system utilizes an Arduino Mega to control Pneumatic Cylinders based on real-time feedback from Ultrasonic Sensors, ensuring precise positioning and safety.
 
 🚀 Key Features
 Automated Leveling: Real-time distance tracking using ultrasonic sensors.
@@ -17,7 +17,7 @@ Microcontroller: Arduino Mega 2560.
 
 Actuators: Pneumatic Cylinders & Pump System.
 
-Sensors: HC-SR04 Ultrasonic Sensors.
+Sensors: HC-SR04 Ultrasonic Sensors + IR.
 
 Control: Relay Modules / Motor Driver (depending on your valve setup).
 
